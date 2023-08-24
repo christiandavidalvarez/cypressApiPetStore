@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  },
+  "scripts": {
+    "cy:run:chrome": "cypress run -b chrome",
+    "cy:run:firefox": "cypress run -b firefox"
+  }
+}
